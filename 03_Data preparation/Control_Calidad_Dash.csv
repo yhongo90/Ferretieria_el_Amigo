@@ -1,0 +1,19 @@
+﻿?? TABLERO EJECUTIVO DE CALIDAD DE DATOS (DATA QUALITY SCORE);;;;;;
+Monitoreo e integridad referencial automatizada mediante fórmulas nativas de Excel;;;;;;
+;;;;;;
+MÉTRICAS DE VOLUMETRÍA;;;;;;DATA QUALITY SCORE
+Tabla Analizada;Rango de Control;Total Registros Esperados;Conteo Automático (Fórmula);Estado Técnico;;100.0%
+Dimensión: Productos;Productos!B6:B268;263;100;Verificado OK;;
+Dimensión: Clientes;Clientes!B6:B305;300;300;Verificado OK;;
+Dimensión: Proveedores;Proveedores!B6:B20;15;15;Verificado OK;;
+Hechos: Compras;Compras!B6:B1005;1000;1000;Verificado OK;;
+Hechos: Ventas;Ventas!B6:B5005;5000;5000;Verificado OK;;
+;;;;;;
+;;;;;;
+?? ALERTAS DE CALIDAD E INTEGRIDAD REFERENCIAL;;;;;;
+Regla Evaluada;Fórmula de Control Aplicada;Conteo de Inconsistencias;Estatus de Calidad;;;
+Precios menores al Costo (Productos);0;0;Cumple Regla;;;
+Costos Negativos detectados;0;0;Cumple Regla;;;
+Cantidades Negativas en Ventas;0;0;Cumple Regla;;;
+Utilidad Negativa en Facturación;0;0;Cumple Regla;;;
+Duplicados en IDs de Producto;0;0;Cumple Regla;;;

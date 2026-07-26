@@ -1,0 +1,10 @@
+Tabla;Campo;Tipo de Dato;Descripción;Regla de Dominio
+Productos;id_producto;Int (PK);Identificador numérico único de la referencia ferretera.;No Nulo, Único
+Productos;SKU;Varchar;Código de inventario estructurado FERR-CAT-ID.;Estructura corporativa
+Productos;Costo;Decimal;Costo unitario de adquisición del producto.;Costo > 0, Separación por punto
+Productos;Precio;Decimal;Precio de venta al público antes de IVA.;Precio >= Costo
+Clientes;id_cliente;Varchar (PK);Llave primaria única del cliente (CLI001-CLI300).;Formato CLI + Correlativo
+Proveedores;NIT;Varchar (PK);Número de Identificación Tributaria con DV.;Formato Nacional Colombiano
+Compras;id_compra;Varchar (PK);Consecutivo único de la orden de compra corporativa.;Formato COM + Correlativo
+Ventas;id_venta;Varchar (PK);Número único de factura de venta del sistema POS.;Formato VEN + Correlativo
+Ventas;utilidad;Decimal;Margen de ganancia calculado por fila transaccional.;Utilidad >= 0 (Garantía de margen)

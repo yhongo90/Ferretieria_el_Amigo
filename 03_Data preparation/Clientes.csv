@@ -1,0 +1,301 @@
+id_cliente;nombres;apellidos;tipo_documento;numero_documento;ciudad;departamento;telefono;correo;fecha_registro;segmento;frecuencia_compra; ticket_promedio ;estado
+CLI001;Luis;Ramírez García;CC;36735830;Manizales;Caldas;3178204212;luis.ramírez@ferremail.com;10/04/2025;Hogar;Baja;349.365;Activo
+CLI002;Pedro;Ramírez Pérez;CC;108750923;Pereira;Risaralda;3156743066;pedro.ramírez@ferremail.com;28/02/2025;Hogar;Baja;85.725;Activo
+CLI003;Claudia;Martínez Sánchez;NIT;75285250;Medellín;Antioquia;3123663046;claudia.martínez@ferremail.com;21/01/2025;Hogar;Media;685.987;Activo
+CLI004;Luis;Rodríguez Torres;CC;62157313;Armenia;Quindío;3163669995;luis.rodríguez@ferremail.com;21/09/2025;Hogar;Media;480.337;Activo
+CLI005;Paula;Rodríguez Pérez;CC;32335235;Bogotá;Cundinamarca;3118281369;paula.rodríguez@ferremail.com;13/02/2025;Constructor;Media;643.587;Activo
+CLI006;Claudia;Ramírez Sánchez;CC;65105831;Medellín;Antioquia;3113704238;claudia.ramírez@ferremail.com;22/02/2025;Profesional;Alta;762.139;Activo
+CLI007;Paula;Torres Gómez;CC;83665032;Santa Rosa de Cabal;Risaralda;3177940119;paula.torres@ferremail.com;4/03/2025;Constructor;Alta;708.519;Activo
+CLI008;Carlos;Gómez García;NIT;105000616;Armenia;Quindío;3161996107;carlos.gómez@ferremail.com;22/02/2026;Hogar;Baja;621.661;Activo
+CLI009;Diana;Martínez Ramírez;CC;24881728;Manizales;Caldas;3146401218;diana.martínez@ferremail.com;14/09/2025;Profesional;Baja;635.270;Activo
+CLI010;Juan;Martínez Sánchez;CC;13331068;Armenia;Quindío;3141973548;juan.martínez@ferremail.com;23/05/2025;Profesional;Alta;344.767;Activo
+CLI011;Carlos;Martínez Pérez;CC;71777469;Santa Rosa de Cabal;Risaralda;3142575557;carlos.martínez@ferremail.com;11/10/2025;Constructor;Media;172.906;Activo
+CLI012;Ana;Sánchez Torres;CC;80016224;Santa Rosa de Cabal;Risaralda;3186697469;ana.sánchez@ferremail.com;1/05/2025;Constructor;Alta;422.690;Activo
+CLI013;Santiago;Ramírez Torres;CC;31200096;Manizales;Caldas;3177457294;santiago.ramírez@ferremail.com;11/11/2025;Hogar;Alta;138.451;Activo
+CLI014;Santiago;Gómez López;CC;47814054;Pereira;Risaralda;3121416880;santiago.gómez@ferremail.com;11/04/2025;Hogar;Alta;790.746;Activo
+CLI015;Pedro;Rodríguez Pérez;CC;15674719;Santa Rosa de Cabal;Risaralda;3106500306;pedro.rodríguez@ferremail.com;6/05/2025;Hogar;Media;255.167;Activo
+CLI016;Martha;Sánchez López;CC;91121402;Santa Rosa de Cabal;Risaralda;3153558231;martha.sánchez@ferremail.com;21/11/2025;Profesional;Media;633.333;Activo
+CLI017;Diego;Gómez Torres;CC;45703247;Medellín;Antioquia;3125506259;diego.gómez@ferremail.com;9/09/2025;Profesional;Baja;579.042;Activo
+CLI018;Carlos;López Sánchez;CC;24764960;Pereira;Risaralda;3174445376;carlos.lópez@ferremail.com;24/09/2025;Hogar;Alta;394.705;Activo
+CLI019;Diego;Martínez Sánchez;CC;30281689;Santa Rosa de Cabal;Risaralda;3131686976;diego.martínez@ferremail.com;31/10/2025;Constructor;Alta;137.796;Activo
+CLI020;Luisa;Sánchez Torres;CC;65223954;Manizales;Caldas;3132579159;luisa.sánchez@ferremail.com;23/02/2025;Profesional;Baja;398.480;Activo
+CLI021;Paula;Pérez Ramírez;CC;49501026;Bogotá;Cundinamarca;3185327576;paula.pérez@ferremail.com;15/12/2025;Hogar;Media;663.409;Activo
+CLI022;Sandra;Martínez Torres;CC;87633091;Santa Rosa de Cabal;Risaralda;3142707923;sandra.martínez@ferremail.com;19/01/2026;Profesional;Baja;630.704;Activo
+CLI023;María;Martínez Pérez;CC;28298917;Bogotá;Cundinamarca;3127105525;maría.martínez@ferremail.com;21/09/2025;Profesional;Media;380.032;Activo
+CLI024;Claudia;Gómez García;CC;50820227;Manizales;Caldas;3103727423;claudia.gómez@ferremail.com;17/01/2025;Constructor;Media;325.628;Activo
+CLI025;Diana;Pérez Martínez;CC;76880548;Medellín;Antioquia;3109519981;diana.pérez@ferremail.com;30/06/2025;Profesional;Alta;668.307;Activo
+CLI026;Andrés;García Sánchez;CC;80995266;Pereira;Risaralda;3181688105;andrés.garcía@ferremail.com;11/08/2025;Constructor;Baja;465.101;Activo
+CLI027;Ana;Pérez Sánchez;CC;88725274;Pereira;Risaralda;3115353127;ana.pérez@ferremail.com;21/02/2026;Hogar;Media;518.863;Activo
+CLI028;Andrés;Sánchez Martínez;CC;86294551;Medellín;Antioquia;3167512440;andrés.sánchez@ferremail.com;5/02/2025;Profesional;Alta;621.863;Activo
+CLI029;Sandra;Martínez Sánchez;CC;80286689;Pereira;Risaralda;3161649150;sandra.martínez@ferremail.com;8/12/2025;Hogar;Media;725.086;Activo
+CLI030;Diana;Pérez Pérez;CC;42576169;Bogotá;Cundinamarca;3159272874;diana.pérez@ferremail.com;20/03/2026;Hogar;Alta;271.451;Activo
+CLI031;Paula;García Sánchez;CC;97753580;Armenia;Quindío;3124054390;paula.garcía@ferremail.com;28/02/2026;Profesional;Alta;253.841;Activo
+CLI032;Ana;Martínez Gómez;CC;16319707;Pereira;Risaralda;3164695961;ana.martínez@ferremail.com;17/08/2025;Hogar;Media;203.062;Activo
+CLI033;Juan;García Gómez;CC;10803328;Pereira;Risaralda;3151176615;juan.garcía@ferremail.com;25/08/2025;Hogar;Alta;466.438;Activo
+CLI034;Claudia;García Pérez;CC;80721474;Armenia;Quindío;3121144356;claudia.garcía@ferremail.com;27/03/2025;Hogar;Media;29.435;Activo
+CLI035;Diego;Gómez López;CC;83706383;Pereira;Risaralda;3144502630;diego.gómez@ferremail.com;10/04/2025;Hogar;Media;515.972;Activo
+CLI036;Pedro;Pérez García;CC;56787763;Pereira;Risaralda;3125466271;pedro.pérez@ferremail.com;14/09/2025;Profesional;Alta;417.827;Activo
+CLI037;Martha;Sánchez Rodríguez;CC;109967871;Manizales;Caldas;3136392023;martha.sánchez@ferremail.com;31/01/2026;Hogar;Alta;24.000;Activo
+CLI038;Carlos;García Martínez;CC;92396202;Armenia;Quindío;3113976242;carlos.garcía@ferremail.com;30/08/2025;Profesional;Alta;569.639;Activo
+CLI039;Pedro;Rodríguez Martínez;CC;33151417;Medellín;Antioquia;3111157164;pedro.rodríguez@ferremail.com;16/03/2025;Constructor;Alta;80.692;Activo
+CLI040;Juan;López García;CC;67658082;Santa Rosa de Cabal;Risaralda;3124970001;juan.lópez@ferremail.com;12/05/2026;Profesional;Baja;420.573;Activo
+CLI041;Diana;Gómez Sánchez;CC;29511512;Manizales;Caldas;3181898320;diana.gómez@ferremail.com;4/01/2026;Profesional;Alta;139.180;Activo
+CLI042;Carlos;Gómez López;CC;24573458;Armenia;Quindío;3184621581;carlos.gómez@ferremail.com;11/08/2025;Constructor;Baja;474.137;Activo
+CLI043;Fernando;García García;CC;79426200;Armenia;Quindío;3144788340;fernando.garcía@ferremail.com;31/05/2025;Profesional;Baja;628.364;Activo
+CLI044;Pedro;Sánchez García;CC;72989020;Manizales;Caldas;3113276360;pedro.sánchez@ferremail.com;15/03/2025;Constructor;Alta;228.124;Activo
+CLI045;Claudia;Ramírez Torres;CC;90497273;Pereira;Risaralda;3147903836;claudia.ramírez@ferremail.com;14/06/2025;Hogar;Alta;177.504;Activo
+CLI046;Paula;Gómez Sánchez;NIT;24509187;Armenia;Quindío;3155939003;paula.gómez@ferremail.com;19/02/2026;Hogar;Media;46.790;Activo
+CLI047;Pedro;Martínez Sánchez;CC;25814828;Medellín;Antioquia;3115984445;pedro.martínez@ferremail.com;27/02/2025;Profesional;Alta;176.542;Activo
+CLI048;Diego;Gómez Martínez;CC;48503931;Santa Rosa de Cabal;Risaralda;3187062903;diego.gómez@ferremail.com;21/02/2026;Hogar;Media;480.857;Activo
+CLI049;Diana;García Pérez;NIT;65257851;Medellín;Antioquia;3131423570;diana.garcía@ferremail.com;20/01/2025;Hogar;Baja;37.640;Activo
+CLI050;Santiago;Gómez García;CC;49521538;Santa Rosa de Cabal;Risaralda;3176528983;santiago.gómez@ferremail.com;5/06/2025;Hogar;Media;590.715;Activo
+CLI051;Ana;Ramírez Rodríguez;CC;81275364;Santa Rosa de Cabal;Risaralda;3138884479;ana.ramírez@ferremail.com;15/02/2026;Profesional;Alta;337.428;Activo
+CLI052;Diana;Martínez Pérez;NIT;39933823;Medellín;Antioquia;3182178049;diana.martínez@ferremail.com;10/01/2025;Constructor;Media;338.714;Activo
+CLI053;Andrés;Sánchez Ramírez;CC;59907857;Santa Rosa de Cabal;Risaralda;3149523838;andrés.sánchez@ferremail.com;5/08/2025;Constructor;Baja;171.456;Activo
+CLI054;María;Martínez Gómez;CC;65229238;Bogotá;Cundinamarca;3103332517;maría.martínez@ferremail.com;16/09/2025;Profesional;Alta;220.244;Activo
+CLI055;Pedro;Martínez Gómez;CC;85356616;Bogotá;Cundinamarca;3104977266;pedro.martínez@ferremail.com;22/06/2025;Profesional;Media;221.152;Activo
+CLI056;Fernando;Rodríguez Ramírez;CC;97220897;Bogotá;Cundinamarca;3153715514;fernando.rodríguez@ferremail.com;2/11/2025;Constructor;Media;651.172;Activo
+CLI057;Sandra;Torres Gómez;CC;71356950;Medellín;Antioquia;3145100673;sandra.torres@ferremail.com;16/03/2025;Hogar;Media;347.359;Activo
+CLI058;Ana;Pérez Rodríguez;CC;84062621;Manizales;Caldas;3128795134;ana.pérez@ferremail.com;27/04/2026;Hogar;Media;324.462;Activo
+CLI059;Sandra;Sánchez Martínez;CC;75377052;Armenia;Quindío;3172854971;sandra.sánchez@ferremail.com;6/12/2025;Hogar;Media;25.569;Activo
+CLI060;Santiago;Martínez Torres;CC;105632207;Manizales;Caldas;3152072647;santiago.martínez@ferremail.com;23/01/2026;Hogar;Alta;277.218;Activo
+CLI061;Luisa;Rodríguez Martínez;CC;64481924;Pereira;Risaralda;3158904069;luisa.rodríguez@ferremail.com;1/01/2025;Profesional;Media;768.589;Activo
+CLI062;María;Torres Torres;CC;11222869;Bogotá;Cundinamarca;3105782883;maría.torres@ferremail.com;14/09/2025;Hogar;Baja;763.091;Activo
+CLI063;Diego;Ramírez Pérez;CC;52758171;Bogotá;Cundinamarca;3178585153;diego.ramírez@ferremail.com;31/12/2025;Hogar;Baja;278.930;Activo
+CLI064;Carlos;Sánchez Rodríguez;CC;15872354;Manizales;Caldas;3183319049;carlos.sánchez@ferremail.com;8/02/2025;Hogar;Baja;419.445;Activo
+CLI065;Sandra;Torres Gómez;CC;32419480;Armenia;Quindío;3122655016;sandra.torres@ferremail.com;19/04/2025;Hogar;Baja;46.069;Activo
+CLI066;Claudia;Ramírez Ramírez;CC;21082322;Pereira;Risaralda;3187482532;claudia.ramírez@ferremail.com;6/01/2025;Constructor;Media;619.991;Activo
+CLI067;Andrés;Pérez García;NIT;42359860;Bogotá;Cundinamarca;3143213573;andrés.pérez@ferremail.com;11/03/2025;Hogar;Media;207.210;Activo
+CLI068;Sandra;Ramírez Sánchez;CC;97554946;Manizales;Caldas;3178082212;sandra.ramírez@ferremail.com;5/02/2025;Constructor;Media;666.465;Activo
+CLI069;Paula;López Pérez;NIT;104484061;Bogotá;Cundinamarca;3123357821;paula.lópez@ferremail.com;17/03/2026;Profesional;Baja;361.383;Activo
+CLI070;Luisa;García Pérez;NIT;92405138;Armenia;Quindío;3109040979;luisa.garcía@ferremail.com;23/04/2025;Profesional;Alta;124.537;Activo
+CLI071;Martha;Pérez García;CC;63215075;Medellín;Antioquia;3125476576;martha.pérez@ferremail.com;25/01/2026;Hogar;Media;102.180;Activo
+CLI072;Pedro;Rodríguez Ramírez;CC;29931456;Medellín;Antioquia;3189112074;pedro.rodríguez@ferremail.com;3/02/2026;Hogar;Baja;449.474;Activo
+CLI073;Claudia;Gómez García;CC;19742257;Bogotá;Cundinamarca;3142712503;claudia.gómez@ferremail.com;4/04/2026;Constructor;Baja;406.594;Activo
+CLI074;Fernando;Pérez Ramírez;CC;12155748;Bogotá;Cundinamarca;3121873172;fernando.pérez@ferremail.com;14/06/2025;Constructor;Baja;519.097;Activo
+CLI075;Paula;Torres Torres;CC;72056263;Bogotá;Cundinamarca;3123562469;paula.torres@ferremail.com;19/12/2025;Profesional;Baja;422.400;Activo
+CLI076;Juan;Gómez Sánchez;CC;27691444;Manizales;Caldas;3168905477;juan.gómez@ferremail.com;14/05/2025;Hogar;Baja;510.025;Activo
+CLI077;Paula;Gómez López;CC;55745050;Armenia;Quindío;3156275034;paula.gómez@ferremail.com;15/03/2026;Hogar;Media;52.265;Activo
+CLI078;Carlos;Gómez Pérez;CC;82506526;Armenia;Quindío;3172805468;carlos.gómez@ferremail.com;16/05/2025;Hogar;Baja;104.291;Activo
+CLI079;Diana;Rodríguez Martínez;CC;59282339;Pereira;Risaralda;3149204298;diana.rodríguez@ferremail.com;11/09/2025;Constructor;Media;260.773;Activo
+CLI080;Claudia;Ramírez Rodríguez;CC;87782638;Armenia;Quindío;3134357679;claudia.ramírez@ferremail.com;20/11/2025;Profesional;Alta;20.126;Activo
+CLI081;María;Torres Pérez;CC;55084109;Santa Rosa de Cabal;Risaralda;3153276106;maría.torres@ferremail.com;11/02/2026;Hogar;Alta;152.717;Activo
+CLI082;Sandra;Sánchez Torres;CC;90908854;Manizales;Caldas;3173427540;sandra.sánchez@ferremail.com;7/03/2026;Hogar;Alta;77.545;Activo
+CLI083;María;García Torres;CC;45453171;Santa Rosa de Cabal;Risaralda;3154678086;maría.garcía@ferremail.com;29/07/2025;Hogar;Baja;318.512;Activo
+CLI084;Luisa;Martínez Pérez;CC;49785651;Bogotá;Cundinamarca;3144364695;luisa.martínez@ferremail.com;10/06/2025;Hogar;Baja;563.385;Activo
+CLI085;Ana;García Gómez;CC;102294504;Santa Rosa de Cabal;Risaralda;3133412149;ana.garcía@ferremail.com;8/12/2025;Hogar;Alta;607.111;Activo
+CLI086;Diego;Gómez Sánchez;CC;89594423;Manizales;Caldas;3106984684;diego.gómez@ferremail.com;22/04/2026;Hogar;Baja;169.521;Activo
+CLI087;Santiago;Martínez Rodríguez;CC;24013403;Santa Rosa de Cabal;Risaralda;3114943645;santiago.martínez@ferremail.com;15/06/2025;Profesional;Alta;596.775;Activo
+CLI088;Diego;Sánchez Martínez;CC;99097673;Manizales;Caldas;3119370262;diego.sánchez@ferremail.com;24/02/2025;Hogar;Media;236.454;Activo
+CLI089;Fernando;Gómez Torres;CC;62934615;Manizales;Caldas;3174185714;fernando.gómez@ferremail.com;7/04/2025;Profesional;Media;617.794;Activo
+CLI090;Martha;Ramírez López;NIT;79071029;Medellín;Antioquia;3168750575;martha.ramírez@ferremail.com;11/04/2026;Hogar;Baja;298.176;Activo
+CLI091;Andrés;Martínez Martínez;CC;75174203;Pereira;Risaralda;3113008960;andrés.martínez@ferremail.com;30/10/2025;Profesional;Baja;647.433;Activo
+CLI092;Pedro;Martínez Sánchez;CC;87973011;Medellín;Antioquia;3142705215;pedro.martínez@ferremail.com;10/08/2025;Hogar;Alta;158.155;Activo
+CLI093;Luis;Pérez Ramírez;CC;24072989;Manizales;Caldas;3162732465;luis.pérez@ferremail.com;25/04/2025;Profesional;Alta;579.655;Activo
+CLI094;Diana;Torres Sánchez;CC;96131989;Manizales;Caldas;3132014929;diana.torres@ferremail.com;8/05/2025;Hogar;Alta;575.941;Activo
+CLI095;María;García Torres;CC;16238795;Medellín;Antioquia;3151716756;maría.garcía@ferremail.com;27/01/2025;Constructor;Media;49.402;Activo
+CLI096;Ana;Torres García;CC;45055276;Santa Rosa de Cabal;Risaralda;3142400283;ana.torres@ferremail.com;9/07/2025;Profesional;Media;121.371;Activo
+CLI097;Luisa;Gómez Martínez;CC;100133874;Pereira;Risaralda;3145902666;luisa.gómez@ferremail.com;23/10/2025;Hogar;Alta;437.978;Activo
+CLI098;Fernando;Martínez Pérez;CC;41873646;Bogotá;Cundinamarca;3151415008;fernando.martínez@ferremail.com;7/09/2025;Hogar;Baja;480.514;Activo
+CLI099;Luisa;Gómez Rodríguez;CC;33567809;Medellín;Antioquia;3184947208;luisa.gómez@ferremail.com;23/10/2025;Profesional;Alta;413.276;Activo
+CLI100;Fernando;Torres Sánchez;CC;75564145;Medellín;Antioquia;3126787749;fernando.torres@ferremail.com;20/12/2025;Hogar;Alta;145.995;Activo
+CLI101;Carlos;Gómez Gómez;NIT;46532022;Santa Rosa de Cabal;Risaralda;3173490706;carlos.gómez@ferremail.com;21/09/2025;Profesional;Alta;414.966;Activo
+CLI102;Santiago;Pérez Ramírez;CC;98798296;Armenia;Quindío;3189369689;santiago.pérez@ferremail.com;16/02/2025;Hogar;Baja;389.040;Activo
+CLI103;Pedro;García Pérez;NIT;21579149;Medellín;Antioquia;3163035848;pedro.garcía@ferremail.com;6/01/2026;Constructor;Media;586.074;Activo
+CLI104;Andrés;Rodríguez López;CC;38348817;Manizales;Caldas;3168951632;andrés.rodríguez@ferremail.com;14/01/2025;Profesional;Baja;579.723;Activo
+CLI105;Diana;Rodríguez Martínez;CC;25170521;Armenia;Quindío;3162841648;diana.rodríguez@ferremail.com;4/01/2025;Profesional;Alta;289.708;Activo
+CLI106;María;Rodríguez Sánchez;CC;102733985;Bogotá;Cundinamarca;3169070924;maría.rodríguez@ferremail.com;21/05/2025;Hogar;Baja;584.262;Activo
+CLI107;Paula;Gómez García;CC;88414095;Armenia;Quindío;3188969693;paula.gómez@ferremail.com;13/02/2026;Hogar;Alta;424.032;Activo
+CLI108;María;Martínez Ramírez;CC;74674115;Pereira;Risaralda;3141785332;maría.martínez@ferremail.com;9/05/2026;Hogar;Baja;231.760;Activo
+CLI109;Fernando;López García;CC;58665285;Bogotá;Cundinamarca;3176927997;fernando.lópez@ferremail.com;29/11/2025;Constructor;Baja;213.283;Activo
+CLI110;Fernando;López Pérez;CC;64496748;Bogotá;Cundinamarca;3116489464;fernando.lópez@ferremail.com;6/08/2025;Hogar;Media;206.626;Activo
+CLI111;Sandra;García García;CC;47735088;Santa Rosa de Cabal;Risaralda;3127846192;sandra.garcía@ferremail.com;2/03/2025;Hogar;Baja;394.999;Activo
+CLI112;Fernando;Martínez Pérez;CC;34586222;Santa Rosa de Cabal;Risaralda;3182675843;fernando.martínez@ferremail.com;2/02/2026;Constructor;Baja;103.560;Activo
+CLI113;Luisa;Torres Martínez;NIT;88931275;Pereira;Risaralda;3184978702;luisa.torres@ferremail.com;9/02/2025;Constructor;Baja;332.250;Activo
+CLI114;Martha;Pérez Ramírez;CC;85306159;Pereira;Risaralda;3116087268;martha.pérez@ferremail.com;12/11/2025;Hogar;Alta;106.988;Activo
+CLI115;Pedro;Ramírez Martínez;CC;27434167;Pereira;Risaralda;3176203916;pedro.ramírez@ferremail.com;25/08/2025;Profesional;Baja;39.623;Activo
+CLI116;María;Torres Torres;NIT;61900771;Manizales;Caldas;3158393979;maría.torres@ferremail.com;7/01/2025;Constructor;Alta;94.553;Activo
+CLI117;Carlos;Sánchez García;CC;29369886;Pereira;Risaralda;3137417665;carlos.sánchez@ferremail.com;25/07/2025;Profesional;Baja;95.713;Activo
+CLI118;Diana;Gómez Torres;CC;52106078;Pereira;Risaralda;3177493509;diana.gómez@ferremail.com;12/04/2026;Profesional;Media;500.488;Activo
+CLI119;Ana;García Pérez;NIT;11656671;Armenia;Quindío;3119527171;ana.garcía@ferremail.com;7/08/2025;Hogar;Media;346.032;Activo
+CLI120;Sandra;Gómez Pérez;CC;72242810;Pereira;Risaralda;3119019213;sandra.gómez@ferremail.com;11/07/2025;Profesional;Baja;696.787;Activo
+CLI121;Luis;Sánchez Gómez;CC;95440590;Manizales;Caldas;3163534937;luis.sánchez@ferremail.com;27/04/2026;Hogar;Alta;689.648;Activo
+CLI122;Andrés;Torres Sánchez;CC;67641756;Medellín;Antioquia;3131444191;andrés.torres@ferremail.com;10/05/2025;Profesional;Media;304.186;Activo
+CLI123;Juan;Ramírez García;NIT;68454884;Manizales;Caldas;3134340216;juan.ramírez@ferremail.com;29/03/2026;Constructor;Alta;261.531;Activo
+CLI124;Claudia;Rodríguez Martínez;CC;11074961;Armenia;Quindío;3179296877;claudia.rodríguez@ferremail.com;18/04/2026;Constructor;Alta;421.927;Activo
+CLI125;Carlos;Rodríguez López;CC;76777436;Armenia;Quindío;3148214615;carlos.rodríguez@ferremail.com;12/11/2025;Constructor;Media;350.904;Activo
+CLI126;Sandra;Sánchez Gómez;CC;65940773;Santa Rosa de Cabal;Risaralda;3158330292;sandra.sánchez@ferremail.com;27/04/2025;Profesional;Baja;629.996;Activo
+CLI127;Fernando;García Rodríguez;CC;98240465;Bogotá;Cundinamarca;3154151882;fernando.garcía@ferremail.com;28/10/2025;Profesional;Media;465.864;Activo
+CLI128;Luisa;Pérez Martínez;CC;48836811;Santa Rosa de Cabal;Risaralda;3155158549;luisa.pérez@ferremail.com;2/04/2025;Profesional;Media;750.023;Activo
+CLI129;Ana;Gómez Rodríguez;CC;42356072;Medellín;Antioquia;3102268300;ana.gómez@ferremail.com;26/04/2025;Hogar;Baja;653.025;Activo
+CLI130;Claudia;Rodríguez Rodríguez;CC;70711339;Santa Rosa de Cabal;Risaralda;3178258746;claudia.rodríguez@ferremail.com;25/01/2026;Profesional;Alta;669.438;Activo
+CLI131;María;Rodríguez Ramírez;NIT;11308507;Bogotá;Cundinamarca;3131100734;maría.rodríguez@ferremail.com;7/01/2025;Profesional;Media;703.321;Activo
+CLI132;Ana;Martínez Torres;CC;14755469;Manizales;Caldas;3118551989;ana.martínez@ferremail.com;12/01/2025;Hogar;Alta;152.632;Activo
+CLI133;Carlos;Martínez Sánchez;CC;46286070;Medellín;Antioquia;3163976031;carlos.martínez@ferremail.com;3/11/2025;Hogar;Media;188.484;Activo
+CLI134;Martha;Torres Martínez;CC;17778748;Medellín;Antioquia;3152946830;martha.torres@ferremail.com;19/12/2025;Constructor;Alta;485.757;Activo
+CLI135;Diego;Ramírez López;CC;81297755;Armenia;Quindío;3135031419;diego.ramírez@ferremail.com;1/06/2025;Profesional;Baja;286.847;Activo
+CLI136;Luis;García Rodríguez;CC;27066318;Pereira;Risaralda;3135443778;luis.garcía@ferremail.com;25/08/2025;Hogar;Alta;540.985;Activo
+CLI137;Paula;Sánchez Rodríguez;CC;55677380;Bogotá;Cundinamarca;3185884797;paula.sánchez@ferremail.com;12/11/2025;Hogar;Media;745.495;Activo
+CLI138;Juan;López Rodríguez;CC;79069690;Santa Rosa de Cabal;Risaralda;3183613275;juan.lópez@ferremail.com;7/03/2025;Constructor;Alta;164.832;Activo
+CLI139;Paula;Ramírez López;NIT;79963054;Manizales;Caldas;3123654837;paula.ramírez@ferremail.com;27/09/2025;Hogar;Alta;402.729;Activo
+CLI140;Sandra;Torres Gómez;CC;57602635;Santa Rosa de Cabal;Risaralda;3182942811;sandra.torres@ferremail.com;1/05/2025;Profesional;Baja;297.707;Activo
+CLI141;Juan;Gómez Ramírez;CC;108158747;Bogotá;Cundinamarca;3131937841;juan.gómez@ferremail.com;30/11/2025;Hogar;Baja;766.788;Activo
+CLI142;Ana;Gómez Sánchez;CC;25702852;Santa Rosa de Cabal;Risaralda;3104040267;ana.gómez@ferremail.com;5/05/2026;Hogar;Media;152.311;Activo
+CLI143;Carlos;Rodríguez Torres;CC;85643942;Manizales;Caldas;3115273445;carlos.rodríguez@ferremail.com;6/12/2025;Hogar;Media;314.700;Activo
+CLI144;Martha;Rodríguez Sánchez;CC;13646804;Santa Rosa de Cabal;Risaralda;3164122951;martha.rodríguez@ferremail.com;6/06/2025;Hogar;Alta;654.965;Activo
+CLI145;Pedro;Gómez Sánchez;NIT;85230621;Pereira;Risaralda;3113833552;pedro.gómez@ferremail.com;26/01/2025;Constructor;Alta;508.011;Activo
+CLI146;Fernando;Torres López;CC;24497054;Bogotá;Cundinamarca;3145828761;fernando.torres@ferremail.com;22/03/2026;Profesional;Media;519.653;Activo
+CLI147;Juan;Gómez Torres;NIT;20427148;Santa Rosa de Cabal;Risaralda;3143619980;juan.gómez@ferremail.com;8/06/2025;Profesional;Media;396.188;Activo
+CLI148;Sandra;López Pérez;CC;62764241;Medellín;Antioquia;3184390742;sandra.lópez@ferremail.com;5/12/2025;Constructor;Alta;414.583;Activo
+CLI149;Sandra;Sánchez Torres;CC;32371392;Armenia;Quindío;3165032654;sandra.sánchez@ferremail.com;9/02/2026;Hogar;Alta;234.432;Activo
+CLI150;Fernando;Gómez Martínez;CC;55938649;Manizales;Caldas;3123042823;fernando.gómez@ferremail.com;20/04/2025;Profesional;Media;514.509;Activo
+CLI151;Carlos;García Ramírez;CC;54804549;Armenia;Quindío;3146438684;carlos.garcía@ferremail.com;3/06/2025;Hogar;Alta;626.177;Activo
+CLI152;Diana;López Sánchez;CC;87411194;Manizales;Caldas;3142999254;diana.lópez@ferremail.com;17/04/2025;Hogar;Baja;369.307;Activo
+CLI153;Juan;López Martínez;CC;54810380;Bogotá;Cundinamarca;3127428540;juan.lópez@ferremail.com;28/03/2026;Hogar;Media;711.738;Activo
+CLI154;Diego;Martínez Ramírez;CC;81226787;Bogotá;Cundinamarca;3117303745;diego.martínez@ferremail.com;9/03/2026;Constructor;Media;277.368;Activo
+CLI155;Luisa;Sánchez Sánchez;CC;102540486;Santa Rosa de Cabal;Risaralda;3179544291;luisa.sánchez@ferremail.com;25/03/2025;Hogar;Baja;341.333;Activo
+CLI156;Luis;Ramírez Sánchez;CC;75176852;Bogotá;Cundinamarca;3184329049;luis.ramírez@ferremail.com;9/01/2025;Profesional;Media;779.416;Activo
+CLI157;Pedro;Ramírez Ramírez;CC;87827225;Manizales;Caldas;3146494339;pedro.ramírez@ferremail.com;19/02/2025;Profesional;Baja;318.185;Activo
+CLI158;Pedro;Martínez López;CC;85998646;Pereira;Risaralda;3141195246;pedro.martínez@ferremail.com;18/02/2025;Profesional;Media;69.104;Activo
+CLI159;Martha;García Martínez;CC;76346143;Manizales;Caldas;3182206861;martha.garcía@ferremail.com;18/03/2025;Profesional;Media;762.296;Activo
+CLI160;Martha;Martínez Sánchez;CC;32406697;Bogotá;Cundinamarca;3168991208;martha.martínez@ferremail.com;29/08/2025;Hogar;Media;474.162;Activo
+CLI161;Ana;Pérez Sánchez;CC;73975459;Medellín;Antioquia;3109593059;ana.pérez@ferremail.com;22/01/2026;Hogar;Alta;423.322;Activo
+CLI162;María;Sánchez López;CC;93163963;Pereira;Risaralda;3145077716;maría.sánchez@ferremail.com;21/09/2025;Constructor;Media;519.499;Activo
+CLI163;Pedro;Martínez Pérez;CC;24931115;Pereira;Risaralda;3151780641;pedro.martínez@ferremail.com;16/04/2026;Hogar;Media;195.915;Activo
+CLI164;Paula;García Torres;CC;23863529;Bogotá;Cundinamarca;3187416438;paula.garcía@ferremail.com;4/02/2026;Hogar;Baja;775.343;Activo
+CLI165;Diana;Sánchez Martínez;CC;89157203;Armenia;Quindío;3107127764;diana.sánchez@ferremail.com;25/03/2025;Profesional;Media;278.503;Activo
+CLI166;Fernando;Gómez García;CC;13341861;Armenia;Quindío;3113615804;fernando.gómez@ferremail.com;22/05/2025;Hogar;Baja;763.537;Activo
+CLI167;Pedro;Torres García;CC;97210744;Santa Rosa de Cabal;Risaralda;3104594058;pedro.torres@ferremail.com;19/11/2025;Hogar;Baja;38.073;Activo
+CLI168;Ana;Sánchez Pérez;NIT;61914894;Bogotá;Cundinamarca;3142794291;ana.sánchez@ferremail.com;5/05/2026;Profesional;Alta;687.689;Activo
+CLI169;Ana;Martínez Ramírez;CC;21476429;Bogotá;Cundinamarca;3125157263;ana.martínez@ferremail.com;7/01/2025;Hogar;Alta;98.222;Activo
+CLI170;Carlos;Rodríguez Rodríguez;CC;95138637;Armenia;Quindío;3112490687;carlos.rodríguez@ferremail.com;23/09/2025;Constructor;Alta;476.956;Activo
+CLI171;María;López Gómez;CC;73607605;Bogotá;Cundinamarca;3131968616;maría.lópez@ferremail.com;25/01/2026;Hogar;Alta;792.577;Activo
+CLI172;Diana;Rodríguez López;CC;85013292;Armenia;Quindío;3139640145;diana.rodríguez@ferremail.com;22/04/2026;Hogar;Media;399.551;Activo
+CLI173;Carlos;Rodríguez Sánchez;CC;18336900;Manizales;Caldas;3114512664;carlos.rodríguez@ferremail.com;10/05/2025;Hogar;Media;721.692;Activo
+CLI174;Fernando;Torres Sánchez;CC;84085474;Medellín;Antioquia;3187210715;fernando.torres@ferremail.com;9/07/2025;Hogar;Baja;117.359;Activo
+CLI175;Paula;Gómez López;CC;53570727;Santa Rosa de Cabal;Risaralda;3149324454;paula.gómez@ferremail.com;15/01/2026;Hogar;Media;269.062;Activo
+CLI176;Claudia;García López;CC;40590972;Manizales;Caldas;3169878234;claudia.garcía@ferremail.com;2/04/2025;Hogar;Baja;517.660;Activo
+CLI177;Diana;Sánchez Rodríguez;CC;62959636;Bogotá;Cundinamarca;3159592974;diana.sánchez@ferremail.com;29/05/2025;Profesional;Media;680.902;Activo
+CLI178;Juan;García Rodríguez;CC;58774836;Pereira;Risaralda;3142352144;juan.garcía@ferremail.com;28/04/2026;Hogar;Baja;155.870;Activo
+CLI179;Luis;Sánchez García;CC;99809441;Armenia;Quindío;3119985826;luis.sánchez@ferremail.com;21/08/2025;Profesional;Alta;276.553;Activo
+CLI180;Pedro;Gómez Torres;CC;20488951;Santa Rosa de Cabal;Risaralda;3183726016;pedro.gómez@ferremail.com;10/05/2025;Hogar;Alta;324.224;Activo
+CLI181;Ana;Ramírez García;CC;23331233;Manizales;Caldas;3152727408;ana.ramírez@ferremail.com;20/03/2025;Constructor;Baja;438.647;Activo
+CLI182;Carlos;García Gómez;CC;81214087;Medellín;Antioquia;3171487510;carlos.garcía@ferremail.com;12/02/2025;Profesional;Baja;633.858;Activo
+CLI183;María;García López;CC;50808249;Bogotá;Cundinamarca;3139791690;maría.garcía@ferremail.com;12/03/2026;Profesional;Baja;669.714;Activo
+CLI184;Luisa;García García;CC;71730143;Pereira;Risaralda;3153518638;luisa.garcía@ferremail.com;25/04/2026;Profesional;Alta;168.702;Activo
+CLI185;Martha;Ramírez Torres;NIT;57675854;Pereira;Risaralda;3122257008;martha.ramírez@ferremail.com;19/10/2025;Profesional;Media;717.960;Activo
+CLI186;Juan;Sánchez Rodríguez;CC;11003171;Armenia;Quindío;3173900737;juan.sánchez@ferremail.com;9/01/2026;Hogar;Baja;89.519;Activo
+CLI187;Martha;Rodríguez Gómez;NIT;35192630;Santa Rosa de Cabal;Risaralda;3185264423;martha.rodríguez@ferremail.com;11/11/2025;Profesional;Media;649.720;Activo
+CLI188;Sandra;López López;CC;52822943;Manizales;Caldas;3106495671;sandra.lópez@ferremail.com;9/02/2026;Hogar;Media;199.830;Activo
+CLI189;Juan;Torres Rodríguez;CC;19935869;Medellín;Antioquia;3179281447;juan.torres@ferremail.com;26/08/2025;Profesional;Baja;471.157;Activo
+CLI190;Luisa;Torres Pérez;CC;49501580;Pereira;Risaralda;3118319764;luisa.torres@ferremail.com;8/04/2026;Hogar;Media;588.926;Activo
+CLI191;Carlos;Sánchez Ramírez;CC;40779669;Manizales;Caldas;3143164412;carlos.sánchez@ferremail.com;19/12/2025;Profesional;Baja;366.130;Activo
+CLI192;Andrés;Sánchez Torres;CC;26413806;Pereira;Risaralda;3173513024;andrés.sánchez@ferremail.com;30/12/2025;Profesional;Alta;320.931;Activo
+CLI193;Luisa;Rodríguez Torres;CC;71509503;Bogotá;Cundinamarca;3168288538;luisa.rodríguez@ferremail.com;15/02/2026;Profesional;Alta;541.608;Activo
+CLI194;Paula;Pérez Pérez;CC;57380429;Bogotá;Cundinamarca;3185476321;paula.pérez@ferremail.com;13/03/2026;Hogar;Baja;712.111;Activo
+CLI195;Diego;Sánchez Pérez;CC;54564078;Medellín;Antioquia;3135742297;diego.sánchez@ferremail.com;20/10/2025;Profesional;Media;284.167;Activo
+CLI196;Andrés;Pérez López;CC;64432684;Armenia;Quindío;3103165251;andrés.pérez@ferremail.com;9/08/2025;Profesional;Alta;663.407;Activo
+CLI197;Claudia;López López;CC;86655127;Pereira;Risaralda;3113504594;claudia.lópez@ferremail.com;8/06/2025;Hogar;Baja;88.926;Activo
+CLI198;Luisa;Pérez Ramírez;CC;25663645;Pereira;Risaralda;3154916643;luisa.pérez@ferremail.com;11/07/2025;Profesional;Alta;287.613;Activo
+CLI199;Juan;Sánchez Gómez;CC;17997043;Santa Rosa de Cabal;Risaralda;3189333100;juan.sánchez@ferremail.com;10/06/2025;Hogar;Baja;759.290;Activo
+CLI200;Santiago;Sánchez Torres;NIT;76298692;Santa Rosa de Cabal;Risaralda;3136289730;santiago.sánchez@ferremail.com;6/04/2026;Profesional;Media;681.757;Activo
+CLI201;Diana;Pérez Gómez;NIT;15720626;Medellín;Antioquia;3127374825;diana.pérez@ferremail.com;4/02/2025;Hogar;Baja;607.100;Activo
+CLI202;Diana;López Gómez;CC;71069572;Armenia;Quindío;3156913318;diana.lópez@ferremail.com;22/10/2025;Hogar;Alta;88.920;Activo
+CLI203;Sandra;Torres Pérez;CC;37270507;Armenia;Quindío;3186905950;sandra.torres@ferremail.com;25/03/2025;Profesional;Alta;494.013;Activo
+CLI204;Paula;Pérez Sánchez;CC;10019675;Bogotá;Cundinamarca;3171486799;paula.pérez@ferremail.com;1/07/2025;Hogar;Alta;446.188;Activo
+CLI205;Paula;Torres López;CC;10658003;Pereira;Risaralda;3186028035;paula.torres@ferremail.com;27/06/2025;Hogar;Baja;772.254;Activo
+CLI206;Pedro;Ramírez López;CC;40647215;Medellín;Antioquia;3172512760;pedro.ramírez@ferremail.com;14/06/2025;Constructor;Media;543.394;Activo
+CLI207;Pedro;García Ramírez;CC;23981528;Medellín;Antioquia;3184498408;pedro.garcía@ferremail.com;10/06/2025;Hogar;Baja;149.350;Activo
+CLI208;Claudia;Gómez Gómez;NIT;47192252;Pereira;Risaralda;3184452501;claudia.gómez@ferremail.com;26/06/2025;Profesional;Media;332.813;Activo
+CLI209;Ana;Gómez García;CC;44093077;Santa Rosa de Cabal;Risaralda;3116832801;ana.gómez@ferremail.com;24/05/2025;Hogar;Alta;89.286;Activo
+CLI210;Paula;Ramírez Ramírez;CC;62499002;Pereira;Risaralda;3126047999;paula.ramírez@ferremail.com;31/08/2025;Profesional;Baja;300.852;Activo
+CLI211;Ana;López López;CC;84652023;Medellín;Antioquia;3157285939;ana.lópez@ferremail.com;2/04/2025;Hogar;Alta;309.768;Activo
+CLI212;Ana;Gómez Rodríguez;CC;22756935;Armenia;Quindío;3101443945;ana.gómez@ferremail.com;15/05/2026;Profesional;Baja;199.635;Activo
+CLI213;Juan;Rodríguez Martínez;CC;44829066;Armenia;Quindío;3179511383;juan.rodríguez@ferremail.com;21/04/2026;Profesional;Alta;281.716;Activo
+CLI214;Claudia;Torres Ramírez;CC;53391803;Armenia;Quindío;3152256715;claudia.torres@ferremail.com;21/01/2026;Hogar;Baja;293.260;Activo
+CLI215;Carlos;Rodríguez Ramírez;CC;28737371;Santa Rosa de Cabal;Risaralda;3163710527;carlos.rodríguez@ferremail.com;8/01/2025;Constructor;Baja;766.084;Activo
+CLI216;Sandra;Pérez Pérez;CC;106007691;Manizales;Caldas;3161578688;sandra.pérez@ferremail.com;4/03/2025;Hogar;Alta;397.501;Activo
+CLI217;Pedro;López Pérez;NIT;35698550;Manizales;Caldas;3145990488;pedro.lópez@ferremail.com;11/05/2025;Profesional;Alta;541.121;Activo
+CLI218;Sandra;García Martínez;CC;71963740;Santa Rosa de Cabal;Risaralda;3132027557;sandra.garcía@ferremail.com;10/03/2026;Hogar;Alta;762.849;Activo
+CLI219;Luis;Torres García;CC;39012949;Manizales;Caldas;3148556855;luis.torres@ferremail.com;6/08/2025;Hogar;Alta;562.387;Activo
+CLI220;María;Martínez Rodríguez;CC;73349631;Bogotá;Cundinamarca;3107888260;maría.martínez@ferremail.com;18/04/2025;Hogar;Baja;314.746;Activo
+CLI221;Juan;López Rodríguez;CC;26394487;Armenia;Quindío;3162153224;juan.lópez@ferremail.com;28/05/2025;Hogar;Baja;766.111;Activo
+CLI222;Carlos;López Torres;CC;81415950;Medellín;Antioquia;3127169912;carlos.lópez@ferremail.com;27/04/2025;Hogar;Media;206.339;Activo
+CLI223;María;Sánchez Torres;CC;47516108;Pereira;Risaralda;3125058848;maría.sánchez@ferremail.com;14/05/2025;Profesional;Baja;603.098;Activo
+CLI224;Pedro;Ramírez Pérez;CC;38398068;Bogotá;Cundinamarca;3122021469;pedro.ramírez@ferremail.com;30/11/2025;Hogar;Alta;159.544;Activo
+CLI225;Martha;Pérez Sánchez;CC;96708216;Manizales;Caldas;3128818114;martha.pérez@ferremail.com;2/03/2026;Profesional;Alta;723.814;Activo
+CLI226;Claudia;Torres Sánchez;CC;53332370;Armenia;Quindío;3173409381;claudia.torres@ferremail.com;13/03/2026;Profesional;Alta;157.888;Activo
+CLI227;Paula;Torres García;CC;90183226;Bogotá;Cundinamarca;3186445315;paula.torres@ferremail.com;9/03/2025;Constructor;Media;363.912;Activo
+CLI228;Santiago;Pérez Torres;NIT;15051646;Medellín;Antioquia;3101575919;santiago.pérez@ferremail.com;7/06/2025;Hogar;Baja;347.231;Activo
+CLI229;Ana;García García;CC;91061139;Medellín;Antioquia;3121401067;ana.garcía@ferremail.com;21/02/2026;Profesional;Alta;771.496;Activo
+CLI230;Luisa;Gómez Rodríguez;CC;49824448;Medellín;Antioquia;3164177902;luisa.gómez@ferremail.com;28/02/2026;Hogar;Media;331.822;Activo
+CLI231;Carlos;López Pérez;CC;37090738;Bogotá;Cundinamarca;3133770742;carlos.lópez@ferremail.com;31/03/2026;Hogar;Media;575.083;Activo
+CLI232;Carlos;Pérez Rodríguez;CC;27811802;Santa Rosa de Cabal;Risaralda;3106547094;carlos.pérez@ferremail.com;26/02/2026;Hogar;Alta;177.584;Activo
+CLI233;Luis;Pérez Ramírez;CC;13830121;Santa Rosa de Cabal;Risaralda;3182353324;luis.pérez@ferremail.com;29/08/2025;Profesional;Media;731.404;Activo
+CLI234;Martha;Gómez Pérez;CC;88369648;Bogotá;Cundinamarca;3177722090;martha.gómez@ferremail.com;8/02/2026;Hogar;Media;429.940;Activo
+CLI235;Juan;Pérez Torres;CC;24226224;Santa Rosa de Cabal;Risaralda;3103392919;juan.pérez@ferremail.com;4/10/2025;Hogar;Baja;331.478;Activo
+CLI236;Diego;Martínez Gómez;CC;57718418;Armenia;Quindío;3176845447;diego.martínez@ferremail.com;21/03/2026;Profesional;Alta;219.919;Activo
+CLI237;Andrés;Sánchez García;CC;58968538;Bogotá;Cundinamarca;3167281646;andrés.sánchez@ferremail.com;3/08/2025;Hogar;Media;459.953;Activo
+CLI238;Paula;Gómez López;CC;21044590;Armenia;Quindío;3176059667;paula.gómez@ferremail.com;23/04/2025;Hogar;Media;175.378;Activo
+CLI239;Juan;Sánchez Rodríguez;CC;106292968;Pereira;Risaralda;3116670706;juan.sánchez@ferremail.com;27/11/2025;Profesional;Media;491.249;Activo
+CLI240;Santiago;Torres Torres;CC;76994946;Armenia;Quindío;3151470529;santiago.torres@ferremail.com;3/04/2025;Hogar;Media;223.047;Activo
+CLI241;María;Torres Martínez;CC;104027062;Medellín;Antioquia;3149201428;maría.torres@ferremail.com;3/03/2025;Profesional;Baja;256.440;Activo
+CLI242;Fernando;Torres Pérez;CC;31444021;Manizales;Caldas;3117674851;fernando.torres@ferremail.com;9/04/2025;Hogar;Alta;712.148;Activo
+CLI243;Ana;Rodríguez Martínez;CC;82010923;Santa Rosa de Cabal;Risaralda;3161719407;ana.rodríguez@ferremail.com;9/06/2025;Hogar;Alta;348.821;Activo
+CLI244;Paula;Gómez Ramírez;CC;55570487;Armenia;Quindío;3146193734;paula.gómez@ferremail.com;15/07/2025;Hogar;Alta;768.736;Activo
+CLI245;Luis;Martínez Rodríguez;CC;56705646;Manizales;Caldas;3106752613;luis.martínez@ferremail.com;5/03/2025;Profesional;Media;752.847;Activo
+CLI246;Martha;Pérez Gómez;CC;57715952;Medellín;Antioquia;3116217092;martha.pérez@ferremail.com;18/02/2026;Hogar;Baja;769.122;Activo
+CLI247;Andrés;López Pérez;NIT;43931226;Pereira;Risaralda;3124033349;andrés.lópez@ferremail.com;11/11/2025;Hogar;Alta;728.521;Activo
+CLI248;Pedro;García García;CC;38465797;Armenia;Quindío;3117049850;pedro.garcía@ferremail.com;7/03/2026;Hogar;Alta;79.500;Activo
+CLI249;Martha;Pérez López;NIT;49206376;Santa Rosa de Cabal;Risaralda;3112581420;martha.pérez@ferremail.com;8/12/2025;Hogar;Baja;70.098;Activo
+CLI250;Pedro;Rodríguez Martínez;CC;41981908;Bogotá;Cundinamarca;3147758699;pedro.rodríguez@ferremail.com;19/05/2025;Profesional;Baja;644.219;Activo
+CLI251;Fernando;Martínez Rodríguez;CC;14889084;Santa Rosa de Cabal;Risaralda;3127049531;fernando.martínez@ferremail.com;4/12/2025;Profesional;Alta;195.767;Activo
+CLI252;Luisa;García Sánchez;CC;45259675;Medellín;Antioquia;3101239779;luisa.garcía@ferremail.com;9/01/2026;Hogar;Baja;152.212;Activo
+CLI253;Luisa;Pérez Pérez;CC;49770506;Armenia;Quindío;3146333968;luisa.pérez@ferremail.com;3/07/2025;Hogar;Media;180.761;Activo
+CLI254;Sandra;Gómez Martínez;CC;62559151;Armenia;Quindío;3132143647;sandra.gómez@ferremail.com;11/03/2025;Profesional;Media;617.093;Activo
+CLI255;Juan;Ramírez Sánchez;CC;58427722;Santa Rosa de Cabal;Risaralda;3122162189;juan.ramírez@ferremail.com;7/08/2025;Hogar;Baja;304.334;Activo
+CLI256;Diego;López Sánchez;NIT;65725103;Santa Rosa de Cabal;Risaralda;3178085904;diego.lópez@ferremail.com;3/12/2025;Constructor;Baja;584.798;Activo
+CLI257;Luisa;García Sánchez;CC;44761183;Bogotá;Cundinamarca;3151217770;luisa.garcía@ferremail.com;19/11/2025;Profesional;Media;360.093;Activo
+CLI258;Fernando;Rodríguez Torres;CC;109664567;Bogotá;Cundinamarca;3182826525;fernando.rodríguez@ferremail.com;30/10/2025;Constructor;Media;292.647;Activo
+CLI259;María;Ramírez Sánchez;CC;65456322;Santa Rosa de Cabal;Risaralda;3131402980;maría.ramírez@ferremail.com;1/01/2025;Hogar;Alta;62.727;Activo
+CLI260;Diana;Torres Gómez;CC;95272769;Santa Rosa de Cabal;Risaralda;3116553535;diana.torres@ferremail.com;17/09/2025;Hogar;Media;269.415;Activo
+CLI261;Santiago;Rodríguez Martínez;CC;88665231;Pereira;Risaralda;3173681206;santiago.rodríguez@ferremail.com;11/06/2025;Profesional;Media;781.019;Activo
+CLI262;Ana;Ramírez Rodríguez;CC;105488903;Bogotá;Cundinamarca;3173332214;ana.ramírez@ferremail.com;27/01/2025;Hogar;Baja;529.492;Activo
+CLI263;Juan;Gómez Torres;CC;20390284;Medellín;Antioquia;3129843026;juan.gómez@ferremail.com;9/11/2025;Profesional;Baja;298.710;Activo
+CLI264;Fernando;López Ramírez;CC;61929747;Pereira;Risaralda;3112195885;fernando.lópez@ferremail.com;15/05/2026;Hogar;Baja;66.101;Activo
+CLI265;Claudia;López Sánchez;CC;20196894;Bogotá;Cundinamarca;3115363089;claudia.lópez@ferremail.com;5/09/2025;Profesional;Baja;289.160;Activo
+CLI266;María;Torres Gómez;CC;77009689;Pereira;Risaralda;3156134544;maría.torres@ferremail.com;9/12/2025;Profesional;Alta;186.277;Activo
+CLI267;Luis;Torres Torres;CC;97588498;Santa Rosa de Cabal;Risaralda;3114641771;luis.torres@ferremail.com;28/03/2026;Profesional;Baja;504.146;Activo
+CLI268;Carlos;Gómez Pérez;CC;91132210;Medellín;Antioquia;3107985945;carlos.gómez@ferremail.com;17/02/2026;Hogar;Baja;64.760;Activo
+CLI269;Claudia;Sánchez García;CC;53531276;Medellín;Antioquia;3105705815;claudia.sánchez@ferremail.com;30/12/2025;Hogar;Baja;598.328;Activo
+CLI270;María;García López;CC;92245259;Medellín;Antioquia;3103901092;maría.garcía@ferremail.com;31/10/2025;Hogar;Alta;611.202;Activo
+CLI271;Fernando;Rodríguez Martínez;CC;100645371;Santa Rosa de Cabal;Risaralda;3116532388;fernando.rodríguez@ferremail.com;1/02/2026;Hogar;Media;363.567;Activo
+CLI272;Juan;Pérez Pérez;CC;74384099;Medellín;Antioquia;3164360492;juan.pérez@ferremail.com;11/06/2025;Hogar;Baja;329.521;Activo
+CLI273;Luis;Pérez García;CC;60316725;Santa Rosa de Cabal;Risaralda;3131164074;luis.pérez@ferremail.com;15/08/2025;Profesional;Alta;161.365;Activo
+CLI274;Diana;García García;NIT;93011541;Santa Rosa de Cabal;Risaralda;3131737954;diana.garcía@ferremail.com;13/02/2026;Profesional;Media;775.728;Activo
+CLI275;Sandra;López Ramírez;CC;21368856;Armenia;Quindío;3153535232;sandra.lópez@ferremail.com;6/12/2025;Hogar;Baja;358.384;Activo
+CLI276;Paula;Pérez García;CC;42557230;Bogotá;Cundinamarca;3189811940;paula.pérez@ferremail.com;14/05/2025;Hogar;Alta;49.336;Activo
+CLI277;Diego;Sánchez López;CC;45002379;Manizales;Caldas;3149278499;diego.sánchez@ferremail.com;6/04/2026;Constructor;Baja;204.626;Activo
+CLI278;Fernando;Ramírez Gómez;CC;52495479;Medellín;Antioquia;3155371047;fernando.ramírez@ferremail.com;14/07/2025;Profesional;Alta;112.769;Activo
+CLI279;Paula;Sánchez López;NIT;32438280;Medellín;Antioquia;3177500785;paula.sánchez@ferremail.com;27/11/2025;Constructor;Media;652.336;Activo
+CLI280;Pedro;Sánchez Torres;CC;10308617;Manizales;Caldas;3126087692;pedro.sánchez@ferremail.com;30/06/2025;Profesional;Baja;289.150;Activo
+CLI281;Luisa;Gómez Gómez;NIT;49747799;Bogotá;Cundinamarca;3189741022;luisa.gómez@ferremail.com;4/05/2026;Profesional;Media;390.416;Activo
+CLI282;Diana;López López;CC;67182455;Bogotá;Cundinamarca;3104877809;diana.lópez@ferremail.com;26/02/2026;Profesional;Baja;104.703;Activo
+CLI283;Pedro;García García;CC;106251453;Bogotá;Cundinamarca;3113664749;pedro.garcía@ferremail.com;1/02/2026;Hogar;Baja;587.815;Activo
+CLI284;Diana;Gómez Gómez;NIT;61079500;Pereira;Risaralda;3157928655;diana.gómez@ferremail.com;9/03/2025;Constructor;Baja;358.365;Activo
+CLI285;Luis;García Torres;NIT;95235670;Bogotá;Cundinamarca;3156629905;luis.garcía@ferremail.com;3/06/2025;Hogar;Baja;280.220;Activo
+CLI286;María;García Rodríguez;NIT;86423687;Medellín;Antioquia;3177039523;maría.garcía@ferremail.com;10/05/2026;Hogar;Baja;434.758;Activo
+CLI287;Carlos;López Ramírez;CC;59207388;Bogotá;Cundinamarca;3186265481;carlos.lópez@ferremail.com;5/02/2025;Hogar;Media;301.854;Activo
+CLI288;Andrés;Ramírez Ramírez;CC;53428295;Manizales;Caldas;3158842680;andrés.ramírez@ferremail.com;15/12/2025;Hogar;Alta;425.513;Activo
+CLI289;María;Pérez Ramírez;NIT;84504737;Manizales;Caldas;3109343199;maría.pérez@ferremail.com;30/03/2025;Profesional;Alta;553.459;Activo
+CLI290;Diana;Martínez Martínez;NIT;72803546;Pereira;Risaralda;3102094316;diana.martínez@ferremail.com;26/04/2025;Hogar;Alta;793.210;Activo
+CLI291;Paula;Gómez Rodríguez;NIT;20117273;Medellín;Antioquia;3132035891;paula.gómez@ferremail.com;9/12/2025;Profesional;Baja;291.400;Activo
+CLI292;Andrés;Gómez Gómez;CC;15277420;Santa Rosa de Cabal;Risaralda;3132760511;andrés.gómez@ferremail.com;19/05/2025;Profesional;Alta;435.842;Activo
+CLI293;Ana;Martínez Martínez;CC;92009390;Pereira;Risaralda;3177353300;ana.martínez@ferremail.com;7/04/2026;Profesional;Media;330.001;Activo
+CLI294;Diana;Ramírez Torres;CC;10225391;Bogotá;Cundinamarca;3185608474;diana.ramírez@ferremail.com;20/11/2025;Hogar;Baja;382.916;Activo
+CLI295;Carlos;Ramírez Ramírez;CC;44356387;Pereira;Risaralda;3175467223;carlos.ramírez@ferremail.com;5/05/2026;Constructor;Media;667.096;Activo
+CLI296;Diego;García Ramírez;CC;37148868;Bogotá;Cundinamarca;3144314344;diego.garcía@ferremail.com;9/11/2025;Profesional;Media;516.965;Activo
+CLI297;Juan;Ramírez Sánchez;CC;53338836;Medellín;Antioquia;3137330034;juan.ramírez@ferremail.com;8/12/2025;Profesional;Media;171.538;Activo
+CLI298;Luis;Torres García;CC;78208441;Pereira;Risaralda;3148232024;luis.torres@ferremail.com;22/04/2025;Constructor;Media;502.488;Activo
+CLI299;Martha;Pérez López;NIT;28246135;Bogotá;Cundinamarca;3144410580;martha.pérez@ferremail.com;1/04/2026;Profesional;Baja;720.406;Activo
+CLI300;Pedro;Rodríguez Torres;CC;24749151;Pereira;Risaralda;3155445818;pedro.rodríguez@ferremail.com;9/02/2026;Profesional;Alta;455.928;Activo

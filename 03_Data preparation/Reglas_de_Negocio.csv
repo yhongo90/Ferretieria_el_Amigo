@@ -1,0 +1,8 @@
+﻿SISTEMA DE INFORMACIÓN FERRETERÍA - TABLA: REGLAS_DE_NEGOCIO;;;
+Dataset normalizado listo para producción en PostgreSQL, Power BI y Tableau.;;;
+;;;
+Código Regla;Tabla;Nombre de Regla;Especificación Lógica Completa
+RN-01;Productos;Consistencia Margen;El precio de venta neto al público debe ser siempre mayor o igual al costo de adquisición.
+RN-02;Transaccional;Signo No Negativo;Las columnas de cantidad, costos, precios y totales bajo ninguna circunstancia admiten valores negativos.
+RN-03;Clientes / Prov;Unicidad Llaves;Todo cliente (id_cliente) y proveedor (NIT) debe poseer un identificador unívoco y no nulo.
+RN-04;Estructura Relacional;Integridad Referencial;Cualquier transacción registrada en Compras o Ventas debe amarrarse a un id existente en Productos, Clientes o Proveedores.
